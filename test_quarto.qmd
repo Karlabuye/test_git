@@ -1,7 +1,7 @@
 ---
 title: "Test_Quarto"
 author: "Karla Buitrago-Yepes"
-format: html
+format: gfm
 editor: visual
 ---
 
